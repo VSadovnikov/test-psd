@@ -1,0 +1,34 @@
+.header-container .navbar{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fc3f32+1,d84029+50,ef263d+51,e86b22+100 */
+background: #fc3f32; /* Old browsers */
+background: -moz-linear-gradient(45deg,  #fc3f32 1%, #d84029 50%, #ef263d 51%, #e86b22 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg,  #fc3f32 1%,#d84029 50%,#ef263d 51%,#e86b22 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg,  #fc3f32 1%,#d84029 50%,#ef263d 51%,#e86b22 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fc3f32', endColorstr='#e86b22',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+	}
+	
+	.navbar-header > img {
+		text-align: center;
+		width: 25px;
+		height: 25px;
+		bottom: 15px;
+		position: absolute;
+	}
+
+	.header-menu > li > a {
+			font-size: 18px;
+			font-family: "Roboto";
+			color: #fff;
+			line-height: 3.778;
+			text-align: right;
+			position: absolute;
+			left: 795.828px;
+			top: 98.6px;
+			z-index: 134;
+		}
+		
+
+  
+  
+  
